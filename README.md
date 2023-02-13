@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt-text](https://github.com/viktoriina/cat-space.gif)
+![alt-text](https://github.com/viktoriina/viktoriina/blob/main/cat-space.gif)
 <!--
 **viktoriina/viktoriina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
